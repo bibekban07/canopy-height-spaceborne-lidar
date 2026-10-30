@@ -1,8 +1,8 @@
-# Cross-Platform GEDI and ICESat-2 Spaceborne LiDAR Integration for Canopy Height Estimation
+# Cross-Platform GEDI and ICESat-2 Spaceborne LiDAR Integration and Multi-Sensor Satellite Data Fusion for Canopy Height Estimation in Fragmented Temperate Hardwood Forests
 
 This repository provides open-source, reproducible R code and demonstration datasets accompanying the research manuscript submitted to *Remote Sensing*:
 
-> **"Cross-Platform GEDI and ICESat-2 Spaceborne LiDAR Integration for Multi-Decadal Forest Canopy Height Estimation across Heterogeneous Hardwood Landscapes"**
+> **"Cross-Platform GEDI and ICESat-2 Spaceborne LiDAR Integration and Multi-Sensor Satellite Data Fusion for Canopy Height Estimation in Fragmented Temperate Hardwood Forests"**
 
 ---
 
